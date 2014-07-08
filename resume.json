@@ -1,0 +1,62 @@
+{
+  "bio": {
+    "firstName": "Béla",
+    "lastName": "Varga",
+    "email": {
+      "work": "bvarga@chip.de",
+      "personal": "bela@ecmanauten.de"
+    },
+    "phone": {
+      "work": "+49 (0)89 / 7 46 42-500"
+    },
+    "summary": "Full time dad and developer. — Part time educator, speaker and freelancer.",
+    "location": {
+      "city": "Munich",
+      "countryCode": "DE",
+      "state": "Germany"
+    },
+    "websites": {
+      "blog": "http://ecmanauten.de"
+    },
+    "profiles": {
+      "github": "netzzwerg",
+      "twitter": "netzzwerg",
+      "codepen": "netzzwerg"
+    }
+  },
+  "work": [
+    {
+      "company": "CHIP Digital GmbH",
+      "position": "JavaScript Developer",
+      "website": "http://www.chip.de",
+      "startDate": "2012-09-01",
+      "summary": "Deutschlands Webseite Nr. 1 für Computer, Mobile und Home Entertainment. Das Download und Kaufberatungsportal bietet unabhängige Tests, aktuelle News und eine der bedeutendsten Community-Plattformen in Deutschland. Laut AGOF internet facts 2013/10 erreicht CHIP Online 13,83 Millionen Unique User im Einzelmonat und ist damit unter den Top 10 der reichweitenstärksten Webseiten."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Applied Sciences - Fachhochschule Stralslund",
+      "startDate": "2002-08-01",
+      "endDate": "2004-09-01",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science (B.Sc.)",
+      "courses": [
+
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  ],
+  "references": [
+
+  ]
+}

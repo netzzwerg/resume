@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "description": "My JSON Résumé",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netzzwerg/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Béla Varga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netzzwerg/resume/issues"
+  },
+  "homepage": "https://github.com/netzzwerg/resume"
+}
